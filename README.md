@@ -1,1 +1,1 @@
-# and.gitup.io
+# and.io
